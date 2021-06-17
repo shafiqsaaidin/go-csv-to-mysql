@@ -1,4 +1,4 @@
-go.sum
+.env
 wg01.csv
 wg02.csv
 data/v2ray.csv
