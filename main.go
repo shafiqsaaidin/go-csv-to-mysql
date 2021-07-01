@@ -8,5 +8,6 @@ import (
 func main() {
 	// open db connection
 	database.Connect()
-	data.LoadV2rayCsv()
+	// data.LoadV2rayCsv()
+	data.LoadWgCsv()
 }
